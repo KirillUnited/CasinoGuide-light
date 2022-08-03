@@ -21,7 +21,7 @@ const Footer = () => {
                             <li><img src={`./icons/service.svg`} alt="Superbonus"/></li>
                             <li><img src={`./icons/service-3.svg`} alt="Superbonus"/></li>
                             <li><img src={`./icons/service-2.svg`} alt="Superbonus"/></li>
-                            <li><img src={`./icons/service-1.svg`} alt="Superbonus"/></li>
+                            <li><img src={`./icons/logofooter4.png`} alt="Superbonus"/></li>
                         </ul>
                         <p className="copy">Copyright © {new Date().getFullYear()} Casino-Leitfaden. Alle Rechte
                             vorbehalten.</p>

@@ -1,7 +1,7 @@
 import React from 'react';
 import "./subscribe.scss";
 import Logo from "../../images/title.png";
-import Icon from "../../images/icon_7.svg";
+import Icon from "../../images/top.svg";
 import Form from "../form/form";
 
 const Subscribe = () => {

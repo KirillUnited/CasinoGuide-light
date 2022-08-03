@@ -10,7 +10,7 @@ const Offers = ({theme}) => {
             <div className='vw-container'>
                 <div className='offers-inner'>
                     <div className='offers-main'>
-                        <Card theme={theme} type="card-primary" bg={`url("./BestOfferBG.png")`} image={`./offers/image 10.png`} title={offers["Best offer"].title} rating={offers["Best offer"].rating} info={offers["Best offer"].info} />
+                        <Card theme={theme} type="card-primary" bg={`url("./BestOfferBG.jpg")`} image={`./offers/image 10.png`} title={offers["Best offer"].title} rating={offers["Best offer"].rating} info={offers["Best offer"].info} />
                     </div>
                     <div className='offers-list'>
                         <h5 className='offers-list-title'>
