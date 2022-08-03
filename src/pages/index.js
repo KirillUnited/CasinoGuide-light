@@ -13,6 +13,6 @@ const IndexPage = () => (
   </Layout>
 );
 
-export const Head = () => <Seo title="Dark Theme" />
+export const Head = () => <Seo title="Light Theme" />
 
 export default IndexPage
